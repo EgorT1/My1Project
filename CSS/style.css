@@ -1,0 +1,64 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#navbar-example2 {
+    margin-bottom: 0px;
+    padding-left: 55px;
+}
+.home {
+    width: 100%;
+    height: 698px;
+    background-color: green;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.btn-outline-warning {
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 55px;
+    z-index: 2;
+}
+
+.scrollspy-example .p-3 .rounded-2 {
+    padding: 0px;
+    
+}
+
+.home_img{
+    width: 100%;
+    height: 698px;
+    display: flex;
+    position: absolute;
+    z-index: 1;
+}
+
+#scrollsssspyHeading1 {
+    z-index: 2;
+    color: white;
+    font-size: 56px;
+    padding-left: 55px;
+}
+
+.text_home {
+    color: white;
+    z-index: 2;
+    margin-top: 30px;
+    font-size: 21px;
+    padding-left: 55px;
+}
+
+.bg-light {
+    background-color: green;
+}
+
+a.nav-link.dropdown-toggle {
+    margin-right: 50px;
+}
+
+a.navbar-brand {
+    margin-left: 60px;
+}
